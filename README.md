@@ -1,4 +1,4 @@
-# chenzhu biotechnology algorithm questions
+# algorithm questions
 
 **题目一（排序、查找）：** 在一个无序的整数数组中，找出两个元素的和等于给定目标值的索引。假设输入的数组中一定存在这样的两个元素，并且每个元素只能使用一次。
 
